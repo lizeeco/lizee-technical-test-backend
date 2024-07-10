@@ -1,5 +1,8 @@
 # Test technique backend Lizee
 
+Pour te préparer à l'exercice, fork le repo et clone-le sur ta machine. Tu pourras ensuite installer les dépendances et lancer le projet.
+Tu partageras ton écran avec moi pendant l'entretien pour que je puisse voir ton code et ta réflexion.
+
 ## Description
 Il s'agit d'une API simple qui permet de gérer des commandes pour une marque. La stack est: NestJS + TypeORM + Postgres.
 
@@ -27,7 +30,7 @@ Si tu as des remarques quelconques sur le code, sur des choses que tu ajouterais
 
 ## Requirements
 - Docker / Docker compose
-- Node.js 18
+- Node.js 18.13.0
 - Yarn
 
 ## Installation
